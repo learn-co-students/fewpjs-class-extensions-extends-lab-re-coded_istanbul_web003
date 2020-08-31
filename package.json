@@ -13,6 +13,7 @@
     "@babel/preset-env": "^7.4.5",
     "chai": "^4.2.0",
     "file-system": "^2.2.2",
+    "iso-639-1": "^2.1.4",
     "jsdom": "^9.0",
     "mocha": "^5.2.0",
     "mocha-jsdom": "~1.1.0",
